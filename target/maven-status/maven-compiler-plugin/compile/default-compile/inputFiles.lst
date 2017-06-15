@@ -1,0 +1,8 @@
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/repository/UserRepository.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/security/AccountCredentials.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/Application.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/security/WebSecurityConfig.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/UserController.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/security/JWTAuthenticationFilter.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/security/JWTLoginFilter.java
+/Users/seb/Dropbox/DEV/spring-boot-jwt/src/main/java/ch/sebooom/springbootjwt/security/TokenAuthentificationService.java

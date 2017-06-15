@@ -1,0 +1,8 @@
+ch/sebooom/springbootjwt/security/AccountCredentials.class
+ch/sebooom/springbootjwt/repository/UserRepository.class
+ch/sebooom/springbootjwt/security/TokenAuthentificationService.class
+ch/sebooom/springbootjwt/UserController.class
+ch/sebooom/springbootjwt/security/JWTLoginFilter.class
+ch/sebooom/springbootjwt/security/JWTAuthenticationFilter.class
+ch/sebooom/springbootjwt/Application.class
+ch/sebooom/springbootjwt/security/WebSecurityConfig.class
